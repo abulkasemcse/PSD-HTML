@@ -1,0 +1,32 @@
+[1006/162411.010:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1006/162411.123:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1006/164838.136:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1006/170330.604:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1006/174532.293:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1006/214108.624:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1006/230049.542:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1006/230148.186:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/160725.725:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/160943.270:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/182442.417:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/193027.343:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/193115.272:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/193205.555:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/211343.540:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1007/211348.660:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/195239.528:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1016/003215.108:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1016/091308.699:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1016/105252.121:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1016/181356.426:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1016/185831.851:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1016/185832.421:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1016/194628.588:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1016/204548.513:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1016/204553.534:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1017/010244.662:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1017/010245.089:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1017/080446.924:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
